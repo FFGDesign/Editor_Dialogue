@@ -1,1 +1,2 @@
-s
+# Witaj!
+### jestem FFG Design 
